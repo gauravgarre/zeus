@@ -4,6 +4,7 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href="#demo">Demo</a></li>
     <li>
       <a href="#inspiration">Inspiration</a>
     </li>
@@ -15,6 +16,9 @@
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
+
+## Demo
+https://youtu.be/0I3cJMA7YH4
 
 ## Inspiration
 According to the World Health Organization, 4.2 million deaths every year occur due to outdoor air pollution. Exposure to air pollution can result in significant health problems such as decreased lung function, aggravated asthma, and increased respiratory symptoms.
@@ -37,8 +41,6 @@ When the user requests for weather data pertaining to their current location, ou
 
 ## Usage
 To access the bot, text START to +1 (801) 337-0504. (Live functionality is not available at the moment).
-
-Demo: https://youtu.be/0I3cJMA7YH4
 
 ## Contact
 Devpost: https://devpost.com/software/weather-bot-fbvh0r
